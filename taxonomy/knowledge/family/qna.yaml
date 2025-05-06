@@ -39,6 +39,6 @@ seed_examples:
           저의 재미있는 유머감각으로 여러분들이 매일 오고 싶고 신나는 학교를 만들어 드리겠습니다.
 document:
   repo: https://github.com/team-edwin/ai-etx-lab.git
-  commit: 5f7158a5ce83c4ff493bfe341fe31ecad64ff697
+  commit: 71df6de9bbb4dc84498163b6875799c5f684119b
   patterns:
     - knowledge.md
